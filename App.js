@@ -1,4 +1,6 @@
-{
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+
   /* <div id="parent">
     <div id="child">
         <h1>Hello I'm heading 1</h1>
@@ -7,7 +9,7 @@
         <h1>Hello I'm heading 1</h1>
     </div>
 </div> */
-}
+
 
 // Create h1 tag with content using React
 // const heading = React.createElement(
